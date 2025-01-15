@@ -32,6 +32,7 @@ Tenemos 2 editText donde ingresaremos los números a sumar y al darle al botón 
 ![GUIkotlin2](https://github.com/user-attachments/assets/dece9f84-fe23-48a5-8f37-bf1f5bb88105)
 
 
-La app solo permite ingresar números y el punto decimal. En caso de escribir algo mal, se notificará en pantalla al intentar calcular la suma.
+La app en caso de ingresar cualquier caracter que no sean números, se notificará en pantalla el fallo que está cometiendo el usuario
 
-![GUIjava3](https://github.com/user-attachments/assets/0d11834c-c670-49c5-b2b9-2dcdbf8f63be)
+
+![GUIkotlin3](https://github.com/user-attachments/assets/f17738d4-4857-46d8-bfaf-2b72c650c496)
