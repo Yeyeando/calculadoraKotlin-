@@ -10,7 +10,7 @@ y mostrando errores en caso de haberlos para guiar al usuario.
 Para ello tenemos que descargar el proyecto, por lo que abrimos un terminal o una consola y añadimos la URL
 
 ```bash
-git clone https://github.com/Yeyeando/calculadorakotlin.git
+git clone https://github.com/Yeyeando/calculadoraKotlin-.git
 ```
 
 De esta manera lo tendremos descargado en una carpeta local.
@@ -23,12 +23,13 @@ Finalmente, Android Studio descargará y abrirá el proyecto. Le damos a run y c
 
 La interfaz de usuario es bastante simple.
 
-![GUIjava](https://github.com/user-attachments/assets/e62dc76d-320c-4fb4-b2f5-6ca363dbf897)
+![GUIkotlin](https://github.com/user-attachments/assets/86ceb057-b387-43ca-a165-274ae980286c)
 
 
 Tenemos 2 editText donde ingresaremos los números a sumar y al darle al botón nos hará el calculo.
 
-![GUIjava2](https://github.com/user-attachments/assets/6565a06d-d046-4cc9-837e-dd17760c28da)
+
+![GUIkotlin2](https://github.com/user-attachments/assets/dece9f84-fe23-48a5-8f37-bf1f5bb88105)
 
 
 La app solo permite ingresar números y el punto decimal. En caso de escribir algo mal, se notificará en pantalla al intentar calcular la suma.
